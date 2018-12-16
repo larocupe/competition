@@ -1,0 +1,90 @@
+body{
+	color: rgba(0, 150, 136, 0.1) rgba-teal-slight;
+	font-family: 'Frank Ruhl Libre', sans-serif;
+	background-color: white;
+
+
+}
+.jumbotron{
+	min-height: 50vh;
+	padding-top: 100px;
+	background-image: url("uni.JPG");
+	background-position:center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#welcome_page{
+	min-height: 600px
+	color: #607d8b;
+    display: block;
+    background-color: rgba(0, 150, 136, 0.1);
+    padding-bottom: 50px;
+}
+
+
+h1{
+	color: #AFC5D2;
+
+}
+
+h2{
+	color: #546e7a;
+}
+
+
+#places{
+	border: hidden;
+	border-color: rgba(3, 169, 244, 0.1);
+	break-before: always;
+	font-color: #546e7a;
+	background-color: #E1ECF3;
+	padding-bottom: 30px;
+}
+
+img{
+	width: 320px;
+	box-shadow: 0px 1px 3px;
+	margin-right: 50px;
+	margin-bottom: 20px;
+
+
+}
+
+.translucent-white {
+	background-color: rgba(255,255,255,0.8);
+}
+
+#campus{
+	font-color: #D6A299
+	background-color: rgba(255, 235, 59, 0.1);
+	padding-bottom: 50px
+}
+
+#about{
+	color:#37474f;
+	padding: 15px 70px 20px 70px;
+	background-color: transparent;
+	background-image: url(uni.jpg);
+	background-position:center;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+#transport{
+	background-color: translucent;
+	padding-bottom: 50px;
+
+}
+
+#official{
+	margin: 10px 10px 10px 10px;
+	padding: 15px 70px 20px 70px;
+}
+
+.custom-font{
+	font-family: 'Nothing You Could Do', cursive;
+}
+.main-custom-font{
+	font-family:'Frank Ruhl Libre', sans-serif;
+}
